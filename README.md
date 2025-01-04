@@ -1,4 +1,7 @@
+### C++ ###
+this language is ideal for Arduino programing.. so i will use ChatGPT diffinitely to learn something about C++
+I will use python for Raspberry programing.. I will se result and dificulty. 
+
+
 ### Lua ###
-lua is usefull for among other things programing of motherboard [Raspberry Pi ](https://rpishop.cz/raspberry-pi-4/2611-raspberry-pi-4-model-b-8gb-ram.html) for my home_station_monitoring
-//
-hope it will be very nice adventure diffinitely with good end, actully I hope this my work will never ending story.. 😊
+Lua i another way.. 
