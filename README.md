@@ -1,5 +1,5 @@
 ## Everythong is at home ##
-No. jsut find a time.. :D
+Now jsut find a time.. :D
 
 ### C++ ###
 this language is ideal for Arduino programing.. so i will use ChatGPT diffinitely to learn something about C++
