@@ -7,4 +7,4 @@ I will use python for Raspberry programing.. I will se result and dificulty. I u
 
 
 ### Lua ###
-Lua i another way.. 
+Lua is another way.. 
